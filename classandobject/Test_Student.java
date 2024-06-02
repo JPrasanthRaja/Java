@@ -146,6 +146,5 @@ public class Test_Student {
         System.out.println(student1.Salary);
 
         
-
     }
 }
